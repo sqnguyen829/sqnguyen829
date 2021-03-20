@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Vue.js and Node.js**
 
-- 📝 I regularly write articles on [https://medium.com/@sqnguyen829](https://medium.com/@sqnguyen829)
+- 📝 You can find articles I've written on [https://medium.com/@sqnguyen829](https://medium.com/@sqnguyen829)
 
 - 📫 How to reach me **sqnguyen829@gmail.com**
 
